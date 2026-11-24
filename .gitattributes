@@ -1,0 +1,2 @@
+# Force les fins de ligne Unix (LF) pour les scripts, même si le dépôt est modifié depuis Windows
+*.sh text eol=lf
